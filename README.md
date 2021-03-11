@@ -8,10 +8,11 @@ Program with a GUI meant for handling family finances
 
 
 - Reads the objects from the files
-- Afiseaza in format tabelar inventarul cu toate obiectele
-- Afiseaza in format tabelar obiectele epuizate din stoc
-- Afiseaza in format tabelar obiectele in curs de epuizare(<10% din stocul initial)
-- Afiseaza in format tabelar obiectele foarte scumpe( se va introduce de la tastatura un pret, vor fi afisare produsele cu pretul unitar mai mare decat valoarea introdusa)
-- Afiseaza in format tabelar valoarea totala a obiectelor clasificate dupa tipul lor
+- Shows expenses
+- Updates expenses
+- Delete expenses
+- Shows expenses by month
+- Shows expenses by person
+- Shows expenses by category and month
 
-Programul se foloseste de bibliotecile java.awt si jawa.swing pentru partea de GUI, de asemenea folosesc mai multe imagini in format .png pentru icons, se pot inlocui cu oricare alt icon dorit doar ca trebuie facute ajustari la marime.
+The program uses the libraries java.awt and jawa.swing for the GUI part.

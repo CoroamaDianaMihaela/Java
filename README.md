@@ -6,7 +6,7 @@
 
 Program with a GUI meant for handling family finances
 
-
+This program's functionalities are:
 - Reads the objects from the files
 - Shows expenses
 - Updates expenses
@@ -15,4 +15,4 @@ Program with a GUI meant for handling family finances
 - Shows expenses by person
 - Shows expenses by category and month
 
-The program uses the libraries java.awt and jawa.swing for the GUI part.
+Libraries such as java.awt and jawa.swing are used for the GUI part.

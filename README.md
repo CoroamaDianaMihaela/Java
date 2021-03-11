@@ -7,7 +7,7 @@
 Program with a GUI meant for handling family finances
 
 
-- Citeste din fisier obiectele
+- Reads the objects from the files
 - Afiseaza in format tabelar inventarul cu toate obiectele
 - Afiseaza in format tabelar obiectele epuizate din stoc
 - Afiseaza in format tabelar obiectele in curs de epuizare(<10% din stocul initial)
